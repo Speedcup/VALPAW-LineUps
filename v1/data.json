@@ -15,6 +15,7 @@
         {
             "title": "C long Godarrow",
             "tags": [],
+            "description": "this Godarrow is for C long \r\nbut You need to be skilled, so please practice and use it\r\n\r\nIt's hard to find because it's hidden among the leaves",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -26,6 +27,7 @@
         {
             "title": "C site Retake recon",
             "tags": [],
+            "description": "literally, there are rly many C site godarrow options so choice are up to you. this arrow is for spotted SITE BOX HOLDER and use with ult",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -37,6 +39,7 @@
         {
             "title": "B site retake Recon",
             "tags": [],
+            "description": "yeah. retake recon. thats it. u can use it with ult",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -48,6 +51,7 @@
         {
             "title": "B site Backsite Shock bolt",
             "tags": [],
+            "description": "this one is for backsite counter.\r\nwhen u go backup for B site\r\nu can make this shot with Shock bolt\r\n** I used Recon Bolt for example **",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -59,6 +63,7 @@
         {
             "title": "A Under Shock bolt Counter",
             "tags": [],
+            "description": "this shock bolt is for counter A sites Under. u can use it while crouching. just make \"headlines\"\r\nno need to see wall's edge.",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -70,6 +75,7 @@
         {
             "title": "Cam A main",
             "tags": [],
+            "description": "Early info cam to a main",
             "mapID": "Bonsai",
             "teamID": "Blue",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -81,6 +87,7 @@
         {
             "title": "B // default and kng",
             "tags": [],
+            "description": "Gekko pixel",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -92,6 +99,7 @@
         {
             "title": "The best revealer on push b on k",
             "tags": [],
+            "description": "The best revealer on push b on kay/o",
             "mapID": "Pitt",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -103,6 +111,7 @@
         {
             "title": "Phoenix molotov anti-push A",
             "tags": [],
+            "description": "Using the Phoenix's ability To prevent a full push from the attack team and inflict damage",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "eb93336a-449b-9c1b-0a54-a891f7921d69",
@@ -114,6 +123,7 @@
         {
             "title": "Double Shock dart - Defence",
             "tags": [],
+            "description": "Double Shock dart - Defence side",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -125,6 +135,7 @@
         {
             "title": "molly line up  stealth  head  (i",
             "tags": [],
+            "description": "molly line up \r\nstealth \r\nhead \r\n(included with ult)",
             "mapID": "Bonsai",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
             "videoURL": "https://iframe.videodelivery.net/e0b1049e158c420dba497e8bac9daa81?&controls=true&preload=none",
@@ -135,6 +146,7 @@
         {
             "title": "A site post-plant one way",
             "tags": [],
+            "description": "works both on 4:3 and 16:9 with room for error",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -146,6 +158,7 @@
         {
             "title": "Abyss B Site Default Molly",
             "tags": [],
+            "description": "Perform a lineup from a safe spot!",
             "mapID": "Infinity",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
             "videoURL": "https://iframe.videodelivery.net/89b7c4cec9274073a33330f9c121c521?&controls=true&preload=none",
@@ -156,6 +169,7 @@
         {
             "title": "Lineup from spawn for main",
             "tags": [],
+            "description": "Stand in the corner like in the video, look with the molly hud at the gap and shoot",
             "mapID": "Canyon",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -167,6 +181,7 @@
         {
             "title": "Bind A Bath One way cage",
             "tags": [],
+            "description": "one way cage on bind for a bath defence. pair it up with the trip to get more kills.",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -178,6 +193,7 @@
         {
             "title": "Pearl  Mid - A Default (slow)",
             "tags": [],
+            "description": "Molly that hits A default from A link.",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -189,6 +205,7 @@
         {
             "title": "PEARL Main - Default Safe (funny",
             "tags": [],
+            "description": "A molly with a funny bounce that hits default from long.",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -200,6 +217,7 @@
         {
             "title": "B Razorvine, Stairs and CT",
             "tags": [],
+            "description": "Lineup for stairs and CT (updated)",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -211,6 +229,7 @@
         {
             "title": "Razorvine to Garden fro A spawn",
             "tags": [],
+            "description": "Lineup from A spawn to Garden.",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -222,6 +241,7 @@
         {
             "title": "Flash B short and B long",
             "tags": [],
+            "description": "Flash B short and B long from site",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -233,6 +253,7 @@
         {
             "title": "A Gen and Dice (Updated)",
             "tags": [],
+            "description": "Lineups for A gen and dice after vyse razorvine changes.",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -244,6 +265,7 @@
         {
             "title": "Lineup BOX BATH to GREENBOXS",
             "tags": [],
+            "description": "Step on the little box, aim up at the right position and it's done.",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -255,6 +277,7 @@
         {
             "title": "Defenders spawn to B ramp",
             "tags": [],
+            "description": "Fast lineup to stop enemies",
             "mapID": "Pitt",
             "teamID": "Blue",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -266,6 +289,7 @@
         {
             "title": "Flash Hooka B",
             "tags": [],
+            "description": "Flash Hooka B",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -277,6 +301,7 @@
         {
             "title": "B main to B site",
             "tags": [],
+            "description": "hi",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -288,6 +313,7 @@
         {
             "title": "B=> C mound vines",
             "tags": [],
+            "description": "If you're playing from B, you can throw these vines from B to C mound to help teammates that might be Op-ing C",
             "mapID": "Jam",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -299,6 +325,7 @@
         {
             "title": "C => front a stairs + tree door",
             "tags": [],
+            "description": "Vines thrown from C main to front of a site stairs and a tree door to prevent the enemy team from executing a fast push.",
             "mapID": "Jam",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -310,6 +337,7 @@
         {
             "title": "mound antipush waterfall vines",
             "tags": [],
+            "description": "throw these vines to waterfall as you execute C so that way you can push with confidence",
             "mapID": "Jam",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -321,6 +349,7 @@
         {
             "title": "C=>A rubble anti-push",
             "tags": [],
+            "description": "Throw these vines from C to A rubbly to prevent the enemy team from fast executing A site. This is best paired with a team that fights a space first",
             "mapID": "Jam",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -332,6 +361,7 @@
         {
             "title": "Fracture plant A lineup",
             "tags": [],
+            "description": "Brimstone lineup to A plant in Fracture",
             "mapID": "Canyon",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -343,6 +373,7 @@
         {
             "title": "Fracture plant A lineup",
             "tags": [],
+            "description": "Long brimstone lineup to B plant in Fracture",
             "mapID": "Canyon",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -354,6 +385,7 @@
         {
             "title": "[A] Post-plant molly (Bridge)",
             "tags": [],
+            "description": "FRAG/ment lineup that covers bridge plant spot",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -365,6 +397,7 @@
         {
             "title": "recon b site to attack spawn",
             "tags": [],
+            "description": "full charge 2 recon",
             "mapID": "Jam",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -376,6 +409,7 @@
         {
             "title": "Trap Wall A Main",
             "tags": [],
+            "description": "Traps enemies peaking A main",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -387,6 +421,7 @@
         {
             "title": "from b fountain to left corner",
             "tags": [],
+            "description": "just randomly found that. hope y'all use it!",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -398,6 +433,7 @@
         {
             "title": "Vines to A heaven rafter + hell",
             "tags": [],
+            "description": "Throw these vines at wall drop to be able to execute quickly and not worry about somebody pushing out of heaven smoke. Hell people are also stuck",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
             "videoURL": "https://iframe.videodelivery.net/346973b77c0c4013b0d6e9ea9b6275e0?&controls=true&preload=none",
@@ -408,6 +444,7 @@
         {
             "title": "fast rot from B to A",
             "tags": [],
+            "description": "good and simple :)",
             "mapID": "Pitt",
             "teamID": "Blue",
             "agentID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -419,6 +456,7 @@
         {
             "title": "TP from b tp to attacker spawn",
             "tags": [],
+            "description": "God lineup :)",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -430,6 +468,7 @@
         {
             "title": "LONG LINEUP B SITE FROM B LONG",
             "tags": [],
+            "description": "LONG LINEUP B SITE DEFAULT FROM B LONG",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -441,6 +480,7 @@
         {
             "title": "fast rot from A to B",
             "tags": [],
+            "description": "good and simple :)",
             "mapID": "Pitt",
             "teamID": "Blue",
             "agentID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -452,6 +492,7 @@
         {
             "title": "Tp from attacker spawn to mid",
             "tags": [],
+            "description": "risky, but can be useful",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -463,6 +504,7 @@
         {
             "title": "Agro Tp from A Short to Backsite",
             "tags": [],
+            "description": "You should flash before doing this.",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -474,6 +516,7 @@
         {
             "title": "Tp from B Site to A Tower",
             "tags": [],
+            "description": ".",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -485,6 +528,7 @@
         {
             "title": "Fade Abyss B Atk",
             "tags": [],
+            "description": "A Lineup for Fades Haunt Ability on Abyss B Side Attacking",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -496,6 +540,7 @@
         {
             "title": "Tp from A Tower to B Elbow",
             "tags": [],
+            "description": "You can also aim more to the right if you don't want to fully go to elbow, you'll stay in spawn then.",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -507,6 +552,7 @@
         {
             "title": "postplant A ult lineup fromshort",
             "tags": [],
+            "description": ".",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -518,6 +564,7 @@
         {
             "title": "Postplant B ult lineup",
             "tags": [],
+            "description": "From B main to site (under Tower). Also can be used to catch B Link",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -529,6 +576,7 @@
         {
             "title": "Postplant B ult from Elbow",
             "tags": [],
+            "description": "i dont think it's lineup but very useful too",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -540,6 +588,7 @@
         {
             "title": "through walled sensor to bath",
             "tags": [],
+            "description": "almost inconspicuous sens to bath/showers",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -551,6 +600,7 @@
         {
             "title": "inconspicuous sens at B window",
             "tags": [],
+            "description": "*almost inconspicuous )",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -562,6 +612,7 @@
         {
             "title": "[A] Post-plant molly",
             "tags": [],
+            "description": "FRAG/ment lineup that covers default plant spot",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -573,6 +624,7 @@
         {
             "title": "Post-plant molly (B Site)",
             "tags": [],
+            "description": "FRAG/ment lineup that covers all plant spots for B-main spike plant",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -584,6 +636,7 @@
         {
             "title": "[C] From C Long to C Site",
             "tags": [],
+            "description": "A default lineup from long.",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -595,6 +648,7 @@
         {
             "title": "[A] From Attacker Spawn to A",
             "tags": [],
+            "description": "A simple lineup.",
             "mapID": "Canyon",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -606,6 +660,7 @@
         {
             "title": "[C] From Mid to C Cite",
             "tags": [],
+            "description": "The best and most comfortable lineup from mid if you moved to long and want to go through mid to garage.",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -617,6 +672,7 @@
         {
             "title": "[C] Cubby to C Site",
             "tags": [],
+            "description": "The simplest and most effective lineup for C site if you're playing with shotguns.",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -628,6 +684,7 @@
         {
             "title": "[A] A Main to  A Site",
             "tags": [],
+            "description": "A simple and very comfortable lineup behind the box in the main.",
             "mapID": "Canyon",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -639,6 +696,7 @@
         {
             "title": "Sensor against dashing entry",
             "tags": [],
+            "description": "against jett's dash, raze and more",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -650,6 +708,7 @@
         {
             "title": "Ult lineup postplant A",
             "tags": [],
+            "description": ".",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -661,6 +720,7 @@
         {
             "title": "Ult lineup postplant A",
             "tags": [],
+            "description": ".",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -672,6 +732,7 @@
         {
             "title": "Ult lineup postplant B",
             "tags": [],
+            "description": ".",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -683,6 +744,7 @@
         {
             "title": "Fast retake mosh on C site",
             "tags": [],
+            "description": "Quick and easy retake/stall mosh on C site",
             "mapID": "Jam",
             "teamID": "Blue",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -694,6 +756,7 @@
         {
             "title": "A root ->  A Hut, A Drop",
             "tags": [],
+            "description": "A Root -> A Hut , A Drop",
             "mapID": "Jam",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -705,6 +768,7 @@
         {
             "title": "How to clear B wall",
             "tags": [],
+            "description": "valorant lineup",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -716,6 +780,7 @@
         {
             "title": "A Lobby -> Rafters & Elbow",
             "tags": [],
+            "description": "Full split attack setup",
             "mapID": "Bonsai",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -727,6 +792,7 @@
         {
             "title": "Attack B Heaven",
             "tags": [],
+            "description": "Smoke for B Heaven on Attack",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -738,6 +804,7 @@
         {
             "title": "Bind B Site defense wall sage",
             "tags": [],
+            "description": "Bind site B wall sage for Garden",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -749,6 +816,7 @@
         {
             "title": "Post plant A Corner Plant",
             "tags": [],
+            "description": "Molly from safer spot",
             "mapID": "Canyon",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -760,6 +828,7 @@
         {
             "title": "Gravnet on A ramps",
             "tags": [],
+            "description": "maybe useful gravnet on a ramps",
             "mapID": "Bonsai",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -771,6 +840,7 @@
         {
             "title": "ABYSS A SÄ°TE DEFAULT LÄ°NEUP",
             "tags": [],
+            "description": "a lobby to a site default lineup for brimstone molly",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -782,6 +852,7 @@
         {
             "title": "Knife from Tree to A Main",
             "tags": [],
+            "description": "an unshootable knife from back of tree to A main. Great for early info on the round to cover many lanes with one agent.",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -793,6 +864,7 @@
         {
             "title": "abyss a main anti hold stun",
             "tags": [],
+            "description": "perfect for pushing of defenders holding a main and punishing them if they try to contest it",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "b444168c-4e35-8076-db47-ef9bf368f384",
@@ -804,6 +876,7 @@
         {
             "title": "Viper Snake Bite A Default",
             "tags": [],
+            "description": "Post-plant snake bite for A Default",
             "mapID": "Jam",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -815,6 +888,7 @@
         {
             "title": "Viper Snake Bite C Default",
             "tags": [],
+            "description": "Post-plant snake bite for C site.",
             "mapID": "Jam",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -826,6 +900,7 @@
         {
             "title": "A Side Green Box",
             "tags": [],
+            "description": "Green Box Plant",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -837,6 +912,7 @@
         {
             "title": "Viper Snake Bite B Default",
             "tags": [],
+            "description": "Post-plant snake bite B default.",
             "mapID": "Jam",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -848,6 +924,7 @@
         {
             "title": "KJ Deadlock team linup for A top",
             "tags": [],
+            "description": "KJ and Deadlock team lineup to net and swarm enemies on A rope top holding you on drop.",
             "mapID": "Canyon",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -859,6 +936,7 @@
         {
             "title": "Tower Molly For B Main Exec",
             "tags": [],
+            "description": "Quick Nanoswarm lineup for B tower.",
             "mapID": "Canyon",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -870,6 +948,7 @@
         {
             "title": "Recon A Lobby -> Back Of A Site",
             "tags": [],
+            "description": "Title indicates everything, lining ultimate pointer where the metal panel and wall meet together.",
             "mapID": "Foxtrot",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -881,6 +960,7 @@
         {
             "title": "Effective Sage Wall",
             "tags": [],
+            "description": "Ascent A Main Wall For Sage Lovers",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -892,6 +972,7 @@
         {
             "title": "Attack (Spawn) to (B site)",
             "tags": [],
+            "description": "An arrow for both a slow push and an accurate fake, under which you can also pick the enemy. Multi-variant arrow",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -903,6 +984,7 @@
         {
             "title": "Defense (B link) to (Mid bottom)",
             "tags": [],
+            "description": "arrow for recon of the rise and approach of enemies, from B link",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -914,6 +996,7 @@
         {
             "title": "(B site) to (A site)",
             "tags": [],
+            "description": "arrow for retake/scan of A site",
             "mapID": "Infinity",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
             "videoURL": "https://iframe.videodelivery.net/ef027c3675204742901d31b9ff2833e3?&controls=true&preload=none",
@@ -924,6 +1007,7 @@
         {
             "title": "Attack (A Lobby) to (A Site)",
             "tags": [],
+            "description": "10 sec recon\r\n\r\n- A Tower\r\n- A Site\r\n- A Bridge\r\n- A Security\r\n- Left box",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -935,6 +1019,7 @@
         {
             "title": "Defense (B tower) to (B main)",
             "tags": [],
+            "description": "An excellent arrow for effectively reconning enemies, as it is located outside the field of view.",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -946,6 +1031,7 @@
         {
             "title": "Defense (A site) to (A main)",
             "tags": [],
+            "description": "Fast recon\r\n- A lobby\r\n- A main\r\n\r\nThe arrow becomes horizontal, making it harder to hit quickly.",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -957,6 +1043,7 @@
         {
             "title": "Enter B Site",
             "tags": [],
+            "description": "Abyss B main entrance for Jett lovers",
             "mapID": "Infinity",
             "agentID": "add6443a-41bd-e414-f6ad-e58d267f4e95",
             "videoURL": "https://iframe.videodelivery.net/c8d40d759c1448b5ad70fdbe54a7f1a4?&controls=true&preload=none",
@@ -967,6 +1054,7 @@
         {
             "title": "(A site) to (B site) var.2",
             "tags": [],
+            "description": "Arrow for retake/recon B site",
             "mapID": "Infinity",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
             "videoURL": "https://iframe.videodelivery.net/36ef26e43f3d466c9ac1ae72a602fc83?&controls=true&preload=none",
@@ -977,6 +1065,7 @@
         {
             "title": "Defense (B tower) to (B lobby)",
             "tags": [],
+            "description": "The arrow is great for enemies that are ready for your scout arrows or who are very slow in attacking.",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -988,6 +1077,7 @@
         {
             "title": "T spawn -> B site",
             "tags": [],
+            "description": "full charge\r\n2 bounces\r\nð¥",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -999,6 +1089,7 @@
         {
             "title": "(B site) to (A site)",
             "tags": [],
+            "description": "arrow for retake/scan A site",
             "mapID": "Infinity",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
             "videoURL": "https://iframe.videodelivery.net/611e01efad8743e19c15f687f37d30a1?&controls=true&preload=none",
@@ -1009,6 +1100,7 @@
         {
             "title": "recon bolt b",
             "tags": [],
+            "description": "recon bolt b",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -1020,6 +1112,7 @@
         {
             "title": "Post plant lineup B site nade",
             "tags": [],
+            "description": "Lineup from B arcade to the box on B site",
             "mapID": "Canyon",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
             "videoURL": "https://iframe.videodelivery.net/a505b17b6c5145dea22d66c2f8420809?&controls=true&preload=none",
@@ -1030,6 +1123,7 @@
         {
             "title": "One way B",
             "tags": [],
+            "description": "line your crosshair on the middle of a gap on the logo, look down to the line on the frame of the entrance, step back and use your hud to line up",
             "mapID": "Pitt",
             "teamID": "Blue",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -1041,6 +1135,7 @@
         {
             "title": "A Site Exec Mollys",
             "tags": [],
+            "description": "Easy Mollys to clear Gen and deny Heaven peek",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -1052,6 +1147,7 @@
         {
             "title": "B-Site Anti-Flood Exec Mollys",
             "tags": [],
+            "description": "Easy mollys to deny a flood from the defense",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -1063,6 +1159,7 @@
         {
             "title": "A Site Postplant Hell and CT",
             "tags": [],
+            "description": "Adapted from Cypher In Real Life:\r\nhttps://youtu.be/fKnMQoQtSaw?t=543",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -1074,6 +1171,7 @@
         {
             "title": "Gravnet + Ult Combo Attack C",
             "tags": [],
+            "description": "useful against that one tp every single chamber player uses on C site, needs good timing and to clear main first with a flash/stun to force the tp",
             "mapID": "Jam",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1085,6 +1183,7 @@
         {
             "title": "from c mound top corner c site",
             "tags": [],
+            "description": "found it randomly but still looks good. hope it'll help ya'll and gl!",
             "mapID": "Jam",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -1096,6 +1195,7 @@
         {
             "title": "God Cam Split A main",
             "tags": [],
+            "description": "Really simple Cypher cam that gets early info on A main",
             "mapID": "Bonsai",
             "teamID": "Blue",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -1107,6 +1207,7 @@
         {
             "title": "after plant super stun b site",
             "tags": [],
+            "description": "after plant b site",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "b444168c-4e35-8076-db47-ef9bf368f384",
@@ -1118,6 +1219,7 @@
         {
             "title": "Drone | B Tree -> B Site",
             "tags": [],
+            "description": "Hard to use, require practice as always",
             "mapID": "Canyon",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -1129,6 +1231,7 @@
         {
             "title": "Drone | B Site -> B Tree",
             "tags": [],
+            "description": "This drone will be more sneaky if u tag them and cancel the drone immediately since they got no idea where is it",
             "mapID": "Canyon",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -1140,6 +1243,7 @@
         {
             "title": "Drone | B Gen -> B Bench",
             "tags": [],
+            "description": "this drone can be as sneaky as thier lurker, to catch them ofc",
             "mapID": "Canyon",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -1151,6 +1255,7 @@
         {
             "title": "B box -> B backsite/link",
             "tags": [],
+            "description": "1st (backsite): line in the hud\r\n2nd (link): rose",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -1162,6 +1267,7 @@
         {
             "title": "A Main -> A Backsite",
             "tags": [],
+            "description": "(2x easy)",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -1173,6 +1279,7 @@
         {
             "title": "Attack delivery A Long",
             "tags": [],
+            "description": "Attack. Special Delivery A Long",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "b444168c-4e35-8076-db47-ef9bf368f384",
@@ -1184,6 +1291,7 @@
         {
             "title": "Open Teleporter",
             "tags": [],
+            "description": "How to Open with Tejo the Teleporter fast and easy",
             "mapID": "Duality",
             "agentID": "b444168c-4e35-8076-db47-ef9bf368f384",
             "videoURL": "https://iframe.videodelivery.net/ea2ed7ef717e4f7f94f149386a52aee8?&controls=true&preload=none",
@@ -1194,6 +1302,7 @@
         {
             "title": "A Security to A Default Plant",
             "tags": [],
+            "description": "Can be used in either post plant or to assist in plant denial",
             "mapID": "Infinity",
             "agentID": "b444168c-4e35-8076-db47-ef9bf368f384",
             "videoURL": "https://iframe.videodelivery.net/c046571d467740b19b18dee16a73e3f4?&controls=true&preload=none",
@@ -1204,6 +1313,7 @@
         {
             "title": "Mosh Pit Lineup Abyss B default",
             "tags": [],
+            "description": "Easy molly lineup for Abyss B-site default plant. Throw right before / as the enemy taps spike.",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -1215,6 +1325,7 @@
         {
             "title": "Sage Tower Wall",
             "tags": [],
+            "description": "very easy",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -1226,6 +1337,7 @@
         {
             "title": "Gen + Default Molly",
             "tags": [],
+            "description": "Easy molly for both Gen and Default, to both delay plant and stop a defuse",
             "mapID": "Ascent",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
             "videoURL": "https://iframe.videodelivery.net/2e19f91abb254399bfaa64041bccd275?&controls=true&preload=none",
@@ -1236,6 +1348,7 @@
         {
             "title": "Vyse Setup Ascent B Site",
             "tags": [],
+            "description": "This is a short guide from Tezics, an Austrian Radiant player, for a Vyse Setup on Ascent B Site.",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -1247,6 +1360,7 @@
         {
             "title": "Gekko Mosh lineup on A",
             "tags": [],
+            "description": "From A main to A rafters",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -1258,6 +1372,7 @@
         {
             "title": "Sova Recon for tp",
             "tags": [],
+            "description": "Recon dart if defenders camp with spike in tp",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -1269,6 +1384,7 @@
         {
             "title": "KayO post plant line-up",
             "tags": [],
+            "description": "Line-up with fragement to deny spike defuse on A Site",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -1280,6 +1396,7 @@
         {
             "title": "Post Plant on A Site",
             "tags": [],
+            "description": "Line-up with fragment to deny spike defuse",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -1291,6 +1408,7 @@
         {
             "title": "KayO fragment to A Site",
             "tags": [],
+            "description": "Line-up with fragment to A Site to deny spike defuse",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -1302,6 +1420,7 @@
         {
             "title": "killjoy ascent lineups defense B",
             "tags": [],
+            "description": "killjoy ascent lineups defense B site all abilitys no ult. thanks for watching byeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -1313,6 +1432,7 @@
         {
             "title": "Mosh lineup from Tree to A Main",
             "tags": [],
+            "description": "When you play around the map and accidentally found a lineup spot while throwing randomly",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -1324,6 +1444,7 @@
         {
             "title": "Ult Lineup A Postplant",
             "tags": [],
+            "description": "somehow works, sunset geometry is weird af",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1335,6 +1456,7 @@
         {
             "title": "Unbreakable Sensor B",
             "tags": [],
+            "description": "extremely op for entrying or postplant",
             "mapID": "Canyon",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1346,6 +1468,7 @@
         {
             "title": "Knife - Top Mid",
             "tags": [],
+            "description": "Unbreakable knife - scans top mid and a little bit of top cat",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -1357,6 +1480,7 @@
         {
             "title": "B site god scan",
             "tags": [],
+            "description": "2 charge 0 bounce (lower left UI barely touching circle's bottom part)",
             "mapID": "Infinity",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
             "videoURL": "https://iframe.videodelivery.net/373fe6d9ccf44a8192a1f456418b2c31?&controls=true&preload=none",
@@ -1367,6 +1491,7 @@
         {
             "title": "B post-plant shock darts",
             "tags": [],
+            "description": "2 charge 0 bounce (leaf), 3 seconds later full charge 2 bounce (pillar).",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -1378,6 +1503,7 @@
         {
             "title": "Lotus A Orb Sensor from Tree",
             "tags": [],
+            "description": "true war criminal technique, should only be used to combo with ult but there is a 0% chance any normal person can expect this",
             "mapID": "Jam",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1389,6 +1515,7 @@
         {
             "title": "sova c lobby recon -defense side",
             "tags": [],
+            "description": "a easy recon scan for defense c lobby",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -1400,6 +1527,7 @@
         {
             "title": "B site one way",
             "tags": [],
+            "description": "B site - One way post plant",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -1411,6 +1539,7 @@
         {
             "title": "Razorvine to another site",
             "tags": [],
+            "description": "This is in case there is information that enemies are pushing another site",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -1422,6 +1551,7 @@
         {
             "title": "A Garden -> A Main",
             "tags": [],
+            "description": "Jump throw. Any res.",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -1433,6 +1563,7 @@
         {
             "title": "Mid Link -> A Tree",
             "tags": [],
+            "description": "Jump throw - Any res",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -1444,6 +1575,7 @@
         {
             "title": "B Lobby -> B Market",
             "tags": [],
+            "description": "Jump throw, short period of time between space and click.",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1455,6 +1587,7 @@
         {
             "title": "Postplant Ult Lineup B Site",
             "tags": [],
+            "description": "if u do this in ranked u are a certified menace to society and u deserve absolute respect for it",
             "mapID": "Canyon",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1466,6 +1599,7 @@
         {
             "title": "Back Site A",
             "tags": [],
+            "description": "Does not over dugout walk-out nor flowers walk out, this line up is for isolating a player behind box back-site A.",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -1477,6 +1611,7 @@
         {
             "title": "B Site | Knife",
             "tags": [],
+            "description": "B Lobby  ---  B Site",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -1488,6 +1623,7 @@
         {
             "title": "B Site | Knife",
             "tags": [],
+            "description": "B Lobby   ---  B Link/Tower",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -1499,6 +1635,7 @@
         {
             "title": "B Site | Knife",
             "tags": [],
+            "description": "B Lobby  ---  B Back Site",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -1510,6 +1647,7 @@
         {
             "title": "Vyse Attack B Site",
             "tags": [],
+            "description": "Razorvines heaven and backsite",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -1521,6 +1659,7 @@
         {
             "title": "Attack Bind - A site",
             "tags": [],
+            "description": "Fade eye for attack in A site - Bind :)",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -1532,6 +1671,7 @@
         {
             "title": "Fade Lineup Sunset A-Site",
             "tags": [],
+            "description": "Fade Lineup Sunset A-Site",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -1543,6 +1683,7 @@
         {
             "title": "viper oneway on b main",
             "tags": [],
+            "description": "With this oneway you can easily defend b site. I hope this video will help you in the game. good luck!",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -1554,6 +1695,7 @@
         {
             "title": "GateCrash + Flash lineup",
             "tags": [],
+            "description": "Gatecrashing and lining up a flash from showers",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -1565,6 +1707,7 @@
         {
             "title": "B site hide wall",
             "tags": [],
+            "description": "Need to press ctrl while jumping",
             "mapID": "Infinity",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
             "videoURL": "https://iframe.videodelivery.net/ce62e5b9f1ac43b6b34bb566562f2804?&controls=true&preload=none",
@@ -1575,6 +1718,7 @@
         {
             "title": "A Security for hs in A main",
             "tags": [],
+            "description": "watch out for people who will be climbing on boxes in A main because they can shoot your legs",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -1586,6 +1730,7 @@
         {
             "title": "From spawn to top mid",
             "tags": [],
+            "description": "I suggest taking marshal only other weapons wont be that good",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -1597,6 +1742,7 @@
         {
             "title": "b retake recon",
             "tags": [],
+            "description": "retake",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -1608,6 +1754,7 @@
         {
             "title": "Accurate Wallboost Mid",
             "tags": [],
+            "description": "needs practice cus u might not be accurate 100% of the time, but if u actually get a kill doing this in ranked ur a certified deadlock nerd",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1619,6 +1766,7 @@
         {
             "title": "B Site Defense setup",
             "tags": [],
+            "description": "Setup B site, nanoswarn hide and hit during a push",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -1630,6 +1778,7 @@
         {
             "title": "Flank watching cam for A Site",
             "tags": [],
+            "description": "An unseeable cam from below for watching flank for A main.",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -1641,6 +1790,7 @@
         {
             "title": "B attack spike hide wall",
             "tags": [],
+            "description": "In the remaining time, you can throw a good wall to protect the spike. You can also place it before planting to make it easier to break early ^^",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -1652,6 +1802,7 @@
         {
             "title": "Retake Ult Lineup A",
             "tags": [],
+            "description": "very useful",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1663,6 +1814,7 @@
         {
             "title": "Retake Ult Lineup B",
             "tags": [],
+            "description": "guaranteed kill if the other team always plant there",
             "mapID": "Pitt",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1674,6 +1826,7 @@
         {
             "title": "Retake Ult Lineup on A Default",
             "tags": [],
+            "description": "works 99% of the times",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1685,6 +1838,7 @@
         {
             "title": "Gravnet B Backsite from Lobby",
             "tags": [],
+            "description": "commonly used to catch cypher rats off guard and make a utility combo, ult or just buy some time",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1696,6 +1850,7 @@
         {
             "title": "B Retake Ult Lineup",
             "tags": [],
+            "description": "catches the plant on the right side and middle of the metal box thing",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1707,6 +1862,7 @@
         {
             "title": "Postplant Ult Lineup A Default",
             "tags": [],
+            "description": "simple",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1718,6 +1874,7 @@
         {
             "title": "Postplant Ult Lineup on A",
             "tags": [],
+            "description": "simple and clean lineup from A long, just be careful with some random pushing short or flank",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1729,6 +1886,7 @@
         {
             "title": "Postplant Ult Lineup A",
             "tags": [],
+            "description": "guaranteed instant rank up to immortal if you do this one on ranked",
             "mapID": "Bonsai",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1740,6 +1898,7 @@
         {
             "title": "A Retake Ult Lineup on Gen",
             "tags": [],
+            "description": "grabs all gen including the plant on default",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1751,6 +1910,7 @@
         {
             "title": "Gravnet B Right Side from Lobby",
             "tags": [],
+            "description": "always works, except when the guy is up on the box",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1762,6 +1922,7 @@
         {
             "title": "Postplant Ult Lineup A Default",
             "tags": [],
+            "description": "cool lineup for postplant, also no smoke can block ur vision as the ult bounces up there which also gives it style points",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1773,6 +1934,7 @@
         {
             "title": "Postplant Ult A Default",
             "tags": [],
+            "description": "simple and clean",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1784,6 +1946,7 @@
         {
             "title": "Retake Ult Lineup on C Default",
             "tags": [],
+            "description": "needs a little bit of practice because its a very small gap for the ult to bounce but ends up being very easy and useful",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1795,6 +1958,7 @@
         {
             "title": "Gravnet A Long",
             "tags": [],
+            "description": "free assist on fast pushes",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1806,6 +1970,7 @@
         {
             "title": "Wall Boost Lineup A",
             "tags": [],
+            "description": "very useful for postplant to play off of your sensors, could technically be used on defense but i dont recommend doing that",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1817,6 +1982,7 @@
         {
             "title": "Wall Boost Lineup Market",
             "tags": [],
+            "description": "very useful to hold site from an unexpected angle and also holds market if the door is broken",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1828,6 +1994,7 @@
         {
             "title": "Wall Boost Lineup A Art",
             "tags": [],
+            "description": "hard to do consistently, can be used to hold mid and site at the same time from an unexpected angle and the wall itself covers art and connector",
             "mapID": "Pitt",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1839,6 +2006,7 @@
         {
             "title": "Gravnet + Ult Combo Dugout A",
             "tags": [],
+            "description": "the definitive counterplay against cypher spamming that damn odin",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1850,6 +2018,7 @@
         {
             "title": "Gravnet + Ult Combo Backsite A",
             "tags": [],
+            "description": "very effective",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1861,6 +2030,7 @@
         {
             "title": "Wall Boost Lineup A",
             "tags": [],
+            "description": "can be used for defending from an unexpected position or in a retake in the same way",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1872,6 +2042,7 @@
         {
             "title": "Wall Lineup A Tree",
             "tags": [],
+            "description": "good for pushing A if theres a lot of people that come out of tree and your teammates dont close the door",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1883,6 +2054,7 @@
         {
             "title": "Wall Boost Lineup A",
             "tags": [],
+            "description": "very useful and unexpected for fast A pushes, just tell someone on the team to hold tree for someone pushing through mid",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1894,6 +2066,7 @@
         {
             "title": "Wall Boost Lineup C",
             "tags": [],
+            "description": "great unexpected angle for holding a fast push through C long, just tell a teammate to watch out garage",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1905,6 +2078,7 @@
         {
             "title": "Postplant Ult Lineup B",
             "tags": [],
+            "description": "free aura points",
             "mapID": "Bonsai",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1916,6 +2090,7 @@
         {
             "title": "Wall Boost Lineup B",
             "tags": [],
+            "description": "very unexpected, great for defense",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1927,6 +2102,7 @@
         {
             "title": "Gravnet + Ult Deep Heaven A",
             "tags": [],
+            "description": "saw this once on a VCT match",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1938,6 +2114,7 @@
         {
             "title": "Postplant Ult Lineup B Site",
             "tags": [],
+            "description": "guaranteed twitter clip",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1949,6 +2126,7 @@
         {
             "title": "Unbreakable Sensor Heaven A",
             "tags": [],
+            "description": "very useful for people pushing heaven on postplant, you can just hide and jump to get free kills when it activates or ult from gen",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1960,6 +2138,7 @@
         {
             "title": "Unbreakable Sensor Heaven A",
             "tags": [],
+            "description": "very useful for people pushing heaven on postplant, you can hide in the corner and jump on the boxes when it activates or ult from gen",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1971,6 +2150,7 @@
         {
             "title": "Wall Boost Lineup A",
             "tags": [],
+            "description": "can be used for defending from an unexpected position or in a retake in the same way",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1982,6 +2162,7 @@
         {
             "title": "Wall Boost Lineup B Site",
             "tags": [],
+            "description": "very unexpected position, if the other team fast pushes B this can be useful combined with sound sensors on the sides",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -1993,6 +2174,7 @@
         {
             "title": "Orb from C long to C site",
             "tags": [],
+            "description": "Orb from C long to C site",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -2004,6 +2186,7 @@
         {
             "title": "Orb from C long to C back site",
             "tags": [],
+            "description": "Orb from C long to C back site",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -2015,6 +2198,7 @@
         {
             "title": "A // Mosh Pit to A Tower",
             "tags": [],
+            "description": "A // Mosh Pit to A Tower",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -2026,6 +2210,7 @@
         {
             "title": "Orb from B lobby to B back",
             "tags": [],
+            "description": "Orb from B lobby to B back",
             "mapID": "Bonsai",
             "teamID": "Red",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -2037,6 +2222,7 @@
         {
             "title": "Orb from A main to A tower",
             "tags": [],
+            "description": "Orb from A main to A tower",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -2048,6 +2234,7 @@
         {
             "title": "To see B site",
             "tags": [],
+            "description": "you can see people close when entering B site you can see people hiding at the thing to close the door and its high so people are generaly suprised",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2059,6 +2246,7 @@
         {
             "title": "simple Mosh Pit to defend B site",
             "tags": [],
+            "description": "simple",
             "mapID": "Bonsai",
             "teamID": "Blue",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -2070,6 +2258,7 @@
         {
             "title": "Mosh Pit from B Alley to B site",
             "tags": [],
+            "description": "Both attacking and defending are viable",
             "mapID": "Bonsai",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
             "videoURL": "https://iframe.videodelivery.net/5ba1ca5abefd4fd8b4e98edb59f73cfa?&controls=true&preload=none",
@@ -2080,6 +2269,7 @@
         {
             "title": "(Line up) Mosh Pit in A site",
             "tags": [],
+            "description": "ez",
             "mapID": "Bonsai",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -2091,6 +2281,7 @@
         {
             "title": "A Ramps to Mid GOD Arrow",
             "tags": [],
+            "description": "Comes from behind, so it's unexpected, and it's high enough to see OVER smokes, so you can get some easy kills. Watch out for those hiding boxes tho!",
             "mapID": "Bonsai",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2102,6 +2293,7 @@
         {
             "title": "Double Shock | A Main -> A Site",
             "tags": [],
+            "description": "Double Shock | A Main -> A Site",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2113,6 +2305,7 @@
         {
             "title": "Viper One-Way B Garage",
             "tags": [],
+            "description": "A perfect one-way to get some sneaky kills.",
             "mapID": "Bonsai",
             "teamID": "Blue",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -2124,6 +2317,7 @@
         {
             "title": "A Ult + Heaven Mollies",
             "tags": [],
+            "description": "Run throw (Ult dome circle) first molly, jump throw (lower right UI touching top right hole on wall) second molly.",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -2135,6 +2329,7 @@
         {
             "title": "A check Mid",
             "tags": [],
+            "description": "a qucik dart to check Mid",
             "mapID": "Pitt",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2146,6 +2341,7 @@
         {
             "title": "Start at A Main to A art",
             "tags": [],
+            "description": "a quick check to mid A art",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2157,6 +2353,7 @@
         {
             "title": "Ascven a gen lineup",
             "tags": [],
+            "description": "Lineup great for post plant!",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -2168,6 +2365,7 @@
         {
             "title": "Brim - Pearl - A Main Default",
             "tags": [],
+            "description": "A simple mollie from A Main to A Default (since Pearl's back in the map pool).",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -2179,6 +2377,7 @@
         {
             "title": "B Site to A Bath Plant Denial",
             "tags": [],
+            "description": "Immediate jump throw",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -2190,6 +2389,7 @@
         {
             "title": "post plant",
             "tags": [],
+            "description": "this works as a off angle wall, also opponets have to break before defusing it.",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -2201,6 +2401,7 @@
         {
             "title": "viper attack pearl setup B site",
             "tags": [],
+            "description": "viper attack my pearl setup on B site",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -2212,6 +2413,7 @@
         {
             "title": "knife on B backsite",
             "tags": [],
+            "description": "Knife for checking the backsite at B plant",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -2223,6 +2425,7 @@
         {
             "title": "lineup on A boxes",
             "tags": [],
+            "description": "Easy lineup to protect the spike for the attacking team",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -2234,6 +2437,7 @@
         {
             "title": "Lineup on spike B site",
             "tags": [],
+            "description": "Easy lineup to protect the spike for the attacking team",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -2245,6 +2449,7 @@
         {
             "title": "Brimstone Molly lineup A default",
             "tags": [],
+            "description": "Post-plant molly lineup on A default",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -2256,6 +2461,7 @@
         {
             "title": "A site dice post plant",
             "tags": [],
+            "description": "A site default dice open plant line up just aim at the huge spike and do a simple left click throw",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -2267,6 +2473,7 @@
         {
             "title": "A site gen post plant",
             "tags": [],
+            "description": "fragment lineup for post plant at default generator plant just aim between those 2 small clouds and do a simple left click throw",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -2278,6 +2485,7 @@
         {
             "title": "sova recon to clear B ramp",
             "tags": [],
+            "description": "Go far back into the corner, aim at the line with the right diamond barely touching the wall, 1 bounce and full charge.",
             "mapID": "Pitt",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2289,6 +2497,7 @@
         {
             "title": "A site dice post plant",
             "tags": [],
+            "description": "A site default dice open plant line up just aim at the left spike from the big centre spike of the cloud and do a simple left click throw",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -2300,6 +2509,7 @@
         {
             "title": "B Halls to A Shower",
             "tags": [],
+            "description": "can be used both as defender and attacker (can be counted as rotation)",
             "mapID": "Duality",
             "agentID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
             "videoURL": "https://iframe.videodelivery.net/1be07a8b091e466c853283d45b0a7175?&controls=true&preload=none",
@@ -2310,6 +2520,7 @@
         {
             "title": "Cypher One Way Split B Site",
             "tags": [],
+            "description": "This is a short guide for the Cypher Cage One Way on Split B Site from Tezics.",
             "mapID": "Bonsai",
             "teamID": "Blue",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -2321,6 +2532,7 @@
         {
             "title": "post plant generator A",
             "tags": [],
+            "description": "first dart : 5s\r\nsecond dart : 3.75s",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2332,6 +2544,7 @@
         {
             "title": "tripwire door B garage enterance",
             "tags": [],
+            "description": "This tripwire can be used to defend B site and hold an angle or when spike is planted at B.\r\nI found this trip while playing.",
             "mapID": "Bonsai",
             "teamID": "Blue",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -2343,6 +2556,7 @@
         {
             "title": "Killjoy invisible molly setup",
             "tags": [],
+            "description": "Two molly's the enemy won't see but definitely feel",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -2354,6 +2568,7 @@
         {
             "title": "Post plant molly",
             "tags": [],
+            "description": "Post plant molly lineup for A site",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -2365,6 +2580,7 @@
         {
             "title": "Raze grenade on A to Cypher",
             "tags": [],
+            "description": "Raze grenade on A to destroy the Cypher stretch marks",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "f94c3b30-42be-e959-889c-5aa313dba261",
@@ -2376,6 +2592,7 @@
         {
             "title": "Raze grenade on B to Cypher",
             "tags": [],
+            "description": "Raze grenade on B to destroy the Cypher stretch marks",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "f94c3b30-42be-e959-889c-5aa313dba261",
@@ -2387,6 +2604,7 @@
         {
             "title": "God flash B main",
             "tags": [],
+            "description": "Use this god flash with teamate to get free kills",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -2398,6 +2616,7 @@
         {
             "title": "Brimstone Molly lineup B default",
             "tags": [],
+            "description": "Molly lineup on B default",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -2409,6 +2628,7 @@
         {
             "title": "Recon | B Site -> B Mid Link",
             "tags": [],
+            "description": "for a alternative lineup u can simply shoot the dart with 0 bounce",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2420,6 +2640,7 @@
         {
             "title": "Recon | A Site -> Mid Courtyard",
             "tags": [],
+            "description": "dont forget to jump before you shoot the recon",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2431,6 +2652,7 @@
         {
             "title": "Recon | B Site -> Mid Bottom",
             "tags": [],
+            "description": "make sure to get urself covered or close the door b4 u do the lineup so u can backup with your team later",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2442,6 +2664,7 @@
         {
             "title": "Recon | A Site -> A Mid Top",
             "tags": [],
+            "description": "id recommend moving ur crosshair up a little bit to avoid hitting the wall",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2453,6 +2676,7 @@
         {
             "title": "Lineup From Mid To B Default",
             "tags": [],
+            "description": "Lineup From Mid To B Default (New Sunset in Patch 9.08)",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -2464,6 +2688,7 @@
         {
             "title": "NEW Sunset B Postplant molly",
             "tags": [],
+            "description": "New sunset patch 9.08 molly lineup brimstone b postplant",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -2475,6 +2700,7 @@
         {
             "title": "B Heaven line up",
             "tags": [],
+            "description": "Made by grumpy",
             "mapID": "Bonsai",
             "teamID": "Red",
             "agentID": "bb2a4828-46eb-8cd1-e765-15848195d751",
@@ -2486,6 +2712,7 @@
         {
             "title": "(Sunset) Cypher Mid/A Lobby Cam",
             "tags": [],
+            "description": "Make sure to not place it too high as you will see less of A lobby!",
             "mapID": "Juliett",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
             "videoURL": "https://iframe.videodelivery.net/ec04d94ffcfa4bf481ac8e2c4e27c54c?&controls=true&preload=none",
@@ -2496,6 +2723,7 @@
         {
             "title": "(Sunset) NEW B Site Setup",
             "tags": [],
+            "description": "Sunset B Site setup post-patch 9.08",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -2507,6 +2735,7 @@
         {
             "title": "NEW Sunset B Postplant molly",
             "tags": [],
+            "description": "NEW Postplant molly founded by me.",
             "mapID": "Juliett",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
             "videoURL": "https://iframe.videodelivery.net/1562d8a127314685aa4e341ed2718833?&controls=true&preload=none",
@@ -2517,6 +2746,7 @@
         {
             "title": "One way A Link",
             "tags": [],
+            "description": "This one way is hard to do with little time, but can be great at defending against OP",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -2528,6 +2758,7 @@
         {
             "title": "New sunset b site lineup",
             "tags": [],
+            "description": "new sunset b lineup for beginners",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -2539,6 +2770,7 @@
         {
             "title": "[NEW] B Lobby to B front",
             "tags": [],
+            "description": "Recon to the front of B site from B Lobby",
             "mapID": "Juliett",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
             "videoURL": "https://iframe.videodelivery.net/0468f80af9944277850b946c251ee197?&controls=true&preload=none",
@@ -2549,6 +2781,7 @@
         {
             "title": "Oneway | B Default",
             "tags": [],
+            "description": "doesnt need a specific place to do the lineup just throw in and it will be there, make sure to do a little bit of pratice",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -2560,6 +2793,7 @@
         {
             "title": "[NEW] B Lobby to Boba",
             "tags": [],
+            "description": "Could be done with either one or two bounces",
             "mapID": "Juliett",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
             "videoURL": "https://iframe.videodelivery.net/202c7798afcd4fe4975592ae6cacddbb?&controls=true&preload=none",
@@ -2570,6 +2804,7 @@
         {
             "title": "Ascent B Site OneWay",
             "tags": [],
+            "description": "Clove OneWay placement for secure B site protect the spike planted",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "1dbf2edd-4729-0984-3115-daa5eed44993",
@@ -2581,6 +2816,7 @@
         {
             "title": "Cypher B main one way new sunset",
             "tags": [],
+            "description": "New sunset one way cage B main",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -2592,6 +2828,7 @@
         {
             "title": "New Sunset update lineup",
             "tags": [],
+            "description": "New Sunset update lineup on default post plant 9.08",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -2603,6 +2840,7 @@
         {
             "title": "(UPDATE) B Lobby to B Site",
             "tags": [],
+            "description": "Throw Mosh from 2 lineups to Bsite located in the same place to post-plant spike from a safe place like B Lobby",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -2614,6 +2852,7 @@
         {
             "title": "A Lobby to A Site",
             "tags": [],
+            "description": "Throw Mosh from 2 lineups to Asite located in the same spot to post-plant spike from a safe place like A Lobby",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -2625,6 +2864,7 @@
         {
             "title": "Lineup New Sunset Update 9.08",
             "tags": [],
+            "description": "lineup on default from lobby on new sunset update.",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -2636,6 +2876,7 @@
         {
             "title": "Recon | A Lobby -> A Tree",
             "tags": [],
+            "description": "hard to spot the recon dart but take less info",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2647,6 +2888,7 @@
         {
             "title": "Viper A Site Molly",
             "tags": [],
+            "description": "Viper A Site Molly for postplant situation",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -2658,6 +2900,7 @@
         {
             "title": "Viper B Site Molly",
             "tags": [],
+            "description": "Viper B Site Molly for postplant situation",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -2669,6 +2912,7 @@
         {
             "title": "A cite to B window check",
             "tags": [],
+            "description": "It is suggested to throw the knife at the start of the round, counting in your mind 15-20 seconds after the start of the round to check for opponents.",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -2680,6 +2924,7 @@
         {
             "title": "b short to b site",
             "tags": [],
+            "description": "b short to b site",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -2691,6 +2936,7 @@
         {
             "title": "b teleporter to b site",
             "tags": [],
+            "description": "b teleporter to b site",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -2702,6 +2948,7 @@
         {
             "title": "a teleporter to a cubby",
             "tags": [],
+            "description": "a teleporter to a cubby",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -2713,6 +2960,7 @@
         {
             "title": "Molly C Lobby to C Safe Plant",
             "tags": [],
+            "description": "Immediate Jump Throw for post\r\n\r\nCan be used as regular Jump Throw to push out others in Bend (timing has to be precise)",
             "mapID": "Jam",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -2724,6 +2972,7 @@
         {
             "title": "Mosh on A-Open",
             "tags": [],
+            "description": "Sometimes if you plant, you need a little help to ensure the spike, you can do this from this way",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -2735,6 +2984,7 @@
         {
             "title": "Mosh A-Default",
             "tags": [],
+            "description": "An easy lineup for mosh",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -2746,6 +2996,7 @@
         {
             "title": "Meme B Main Haunt",
             "tags": [],
+            "description": "Unnecessary lineup to show off your eye throwing skills",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -2757,6 +3008,7 @@
         {
             "title": "B Snowman",
             "tags": [],
+            "description": "Clears B Snowman and near it.",
             "mapID": "Port",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
             "videoURL": "https://iframe.videodelivery.net/553ecf4dff974fd29a392612eecbf227?&controls=true&preload=none",
@@ -2767,6 +3019,7 @@
         {
             "title": "cypher postplant",
             "tags": [],
+            "description": "this epic post plant cam on abyss with the amazing agent cypher and the decent map but this epic lineup gives you lots of epic yahoos from your team!!",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -2778,6 +3031,7 @@
         {
             "title": "Molly for Boiler, Kitchen turret",
             "tags": [],
+            "description": "Not mine, used by SEN Zellsis in VCT Madrid so i thought i'd share them. (i'm on stretched res but it's same for normal res and ignore the lag lol)",
             "mapID": "Port",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -2789,6 +3043,7 @@
         {
             "title": "shock dart stair",
             "tags": [],
+            "description": "by c9teen",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2800,6 +3055,7 @@
         {
             "title": "B Site Viper Molly",
             "tags": [],
+            "description": "A sunset viper molly from B Lobby to B site",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -2811,6 +3067,7 @@
         {
             "title": "Shock dart lane",
             "tags": [],
+            "description": "by c9teen",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2822,6 +3079,7 @@
         {
             "title": "Eye Retake A Site",
             "tags": [],
+            "description": "Good retake eye that doesnt take much lining up so you can do it fast",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -2833,6 +3091,7 @@
         {
             "title": "Eye Hookah to B Short",
             "tags": [],
+            "description": "Easy Lineup to spot anybody pushing or holding B Short",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -2844,6 +3103,7 @@
         {
             "title": "Eye A Short to A Site",
             "tags": [],
+            "description": "Requires some precision to land but covers all of site",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -2855,6 +3115,7 @@
         {
             "title": "God Eye B Long to B Site",
             "tags": [],
+            "description": "A good eye to scan essentially the whole site that's also hard to break",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -2866,6 +3127,7 @@
         {
             "title": "Eye Retake B Site",
             "tags": [],
+            "description": "Good fast lineup for retaking B Site",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -2877,6 +3139,7 @@
         {
             "title": "Root A Lobby to Showers",
             "tags": [],
+            "description": "Has to be pretty precise but will root anybody pushing showers for an easy follow up",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -2888,6 +3151,7 @@
         {
             "title": "Eye from B Elbow to B Long",
             "tags": [],
+            "description": "A deep eye to scan for anybody pushing up B Long",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -2899,6 +3163,7 @@
         {
             "title": "KJ Nanoswarm B site near boxes",
             "tags": [],
+            "description": "KJ post plant Nanoswarms on B site from B Main.\r\n\r\nI usually put my alarmbot on Mid Bend and turret near Danger to make sure they don't clear me.",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -2910,6 +3175,7 @@
         {
             "title": "A site âââ> B Link",
             "tags": [],
+            "description": "KAY/O hits different on ascent ð¥\r\n\r\nKay/O knife from A site to B link defenders, recommended to obviously immediately use it as the round starts.",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -2921,6 +3187,7 @@
         {
             "title": "KJ A site default/boxes nano",
             "tags": [],
+            "description": "Nanoswarm lineup near bath TP (on stairs) for default/boxes.\r\n\r\nI normally put my alarmbot or turret on A short to make sure nobody clears me.",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -2932,6 +3199,7 @@
         {
             "title": "KJ B site TP nanoswarm",
             "tags": [],
+            "description": "KJ Nanoswarm post plant from Teleporter.\r\nI usually put alarmbot or turret on B long and Garden to prevent getting cleared.",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -2943,6 +3211,7 @@
         {
             "title": "Double Shock | Molly Counter",
             "tags": [],
+            "description": "Timing is usually around 15-20 seconds after the spike is planted",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2954,6 +3223,7 @@
         {
             "title": "KJ Uhaul A site Nanoswarm",
             "tags": [],
+            "description": "Post plant Nanoswarm on Uhaul from A short.\r\n\r\nI usually put turret/alarmbot in cubby or A link and bath to prevent people clearing me.",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -2965,6 +3235,7 @@
         {
             "title": "KJ hooka post plant nanoswarm",
             "tags": [],
+            "description": "KJ Nanoswarm from hooka. I usually put a turret somewhere at the window and alarmbot near TP to prevent getting cleared.",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -2976,6 +3247,7 @@
         {
             "title": "A Lobby Ascent",
             "tags": [],
+            "description": "A Rafters to A Lobby Quick Info",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -2987,6 +3259,7 @@
         {
             "title": "A Main plant from CT",
             "tags": [],
+            "description": "VERY EASY molly from a bronze brimstone main",
             "mapID": "Jam",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -2998,6 +3271,7 @@
         {
             "title": "I found this so u don't have to",
             "tags": [],
+            "description": "Anti KJ turret",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -3009,6 +3283,7 @@
         {
             "title": "B site Molly from A ROOT",
             "tags": [],
+            "description": "made by me, bronze brimstone main",
             "mapID": "Jam",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -3020,6 +3295,7 @@
         {
             "title": "A lobby ---> mid pizza",
             "tags": [],
+            "description": "Half charge 1 bounce and it will scan mid pizza.",
             "videoURL": "https://iframe.videodelivery.net/ce19671588f04142a0d036be305f028b?&controls=true&preload=none",
             "thumbnailURL": "https://customer-9h7e8ahl6hivmjb6.cloudflarestream.com/ce19671588f04142a0d036be305f028b/thumbnails/thumbnail.jpg?time=1s&width=429",
             "author": "Anonymous",
@@ -3028,6 +3304,7 @@
         {
             "title": "Lotus C Lobby",
             "tags": [],
+            "description": "Easiest recon sova for deffend at C site of Lotus",
             "mapID": "Jam",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -3039,6 +3316,7 @@
         {
             "title": "Wall for CT and Heaven",
             "tags": [],
+            "description": "Make sure when drawing the wall you are smoking the ledge on tower, not behind it, also aim slightly upwards are if you aim lower it smokes below",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "95b78ed7-4637-86d9-7e41-71ba8c293152",
@@ -3050,6 +3328,7 @@
         {
             "title": "Cove lineup for tree",
             "tags": [],
+            "description": "This is good for when your rotating from B to A and dont have wall, then you can use cascades for heaven or just to entry.",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "95b78ed7-4637-86d9-7e41-71ba8c293152",
@@ -3061,6 +3340,7 @@
         {
             "title": "Retake cove lineup for A main",
             "tags": [],
+            "description": "This is good for when wanting to drop and clear site, however people break it quick so you can use cascade as alternative if you want cove still",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "95b78ed7-4637-86d9-7e41-71ba8c293152",
@@ -3072,6 +3352,7 @@
         {
             "title": "Cove lineup for heaven and entry",
             "tags": [],
+            "description": "Its also very useful to flash center site  with someone like skye or kayo while pushing with cascade",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "95b78ed7-4637-86d9-7e41-71ba8c293152",
@@ -3083,6 +3364,7 @@
         {
             "title": "Retake cove lineup for A sewers",
             "tags": [],
+            "description": "This is good to clear corners while retaking with your team and not get sprayed from sewers for a bit, this is good when combined with a molly!",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "95b78ed7-4637-86d9-7e41-71ba8c293152",
@@ -3094,6 +3376,7 @@
         {
             "title": "Viper Setup",
             "tags": [],
+            "description": "Viper Orb Line up and wall setup",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -3105,6 +3388,7 @@
         {
             "title": "A Main Recon From B Site",
             "tags": [],
+            "description": "A recon arrow to help teammates at A from the back of B site at a popular place to hold B from at the start of a game.",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -3116,6 +3400,7 @@
         {
             "title": "Recon Haven A site",
             "tags": [],
+            "description": "Lineup of recon's Sova to bomb site A Haven",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -3127,6 +3412,7 @@
         {
             "title": "Recon A Main Box -> B Lobby",
             "tags": [],
+            "description": "Scans Entrance to B main B Lobby Mid Bottom and back of B lobby",
             "mapID": "Juliett",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
             "videoURL": "https://iframe.videodelivery.net/fae43d33d97c44239fb1b642565181d3?&controls=true&preload=none",
@@ -3137,6 +3423,7 @@
         {
             "title": "Camera Site A",
             "tags": [],
+            "description": "Camera for site A",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -3148,6 +3435,7 @@
         {
             "title": "Dizzy Clears all of B Short",
             "tags": [],
+            "description": "With this Lineup you can clear the inter B Short and B link Door with Dizzy with out him getting shot",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -3159,6 +3447,7 @@
         {
             "title": "A - Default",
             "tags": [],
+            "description": "Molly from A root to default",
             "mapID": "Jam",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
             "videoURL": "https://iframe.videodelivery.net/2327d3e24efc425997ab1a9cabf45359?&controls=true&preload=none",
@@ -3169,6 +3458,7 @@
         {
             "title": "Attacker Spawn Scan",
             "tags": [],
+            "description": "Scans the left attacker side spawn. You can also do it with 1 Bounce so it will Scan B Green :)",
             "mapID": "Port",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -3180,6 +3470,7 @@
         {
             "title": "A Main Haunt",
             "tags": [],
+            "description": "Scans A Main and a bit of A Lobby",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -3191,6 +3482,7 @@
         {
             "title": "B - Default (Updated)",
             "tags": [],
+            "description": "Molly from lobby to default",
             "mapID": "Juliett",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
             "videoURL": "https://iframe.videodelivery.net/51ef96edfbcc486c99bef84efdaf2622?&controls=true&preload=none",
@@ -3201,6 +3493,7 @@
         {
             "title": "A - Boxxes",
             "tags": [],
+            "description": "Molly from mid top to boxxes",
             "mapID": "Juliett",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
             "videoURL": "https://iframe.videodelivery.net/3ad21c1d6b3f46a3bd2303d48e875557?&controls=true&preload=none",
@@ -3211,6 +3504,7 @@
         {
             "title": "A - Boxxes",
             "tags": [],
+            "description": "Molly from Alley to Boxxes",
             "mapID": "Juliett",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
             "videoURL": "https://iframe.videodelivery.net/ac470cb0dd1b406686327aea0ebfca59?&controls=true&preload=none",
@@ -3221,6 +3515,7 @@
         {
             "title": "B Site scan",
             "tags": [],
+            "description": "It will scan B Orange and a bit of the B Site",
             "mapID": "Port",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -3232,6 +3527,7 @@
         {
             "title": "B - Default",
             "tags": [],
+            "description": "Molly from B pillars to default",
             "mapID": "Jam",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
             "videoURL": "https://iframe.videodelivery.net/50fcdbcb44bf4237befd1ab3bb059c08?&controls=true&preload=none",
@@ -3242,6 +3538,7 @@
         {
             "title": "A - Defaults",
             "tags": [],
+            "description": "A molly from A long to A defaults",
             "mapID": "Triad",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
             "videoURL": "https://iframe.videodelivery.net/5a7b5f60af1c4dc4a0c0ba09f5e289cf?&controls=true&preload=none",
@@ -3252,6 +3549,7 @@
         {
             "title": "A - Corner",
             "tags": [],
+            "description": "Molly from A elbow to corner",
             "mapID": "Juliett",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
             "videoURL": "https://iframe.videodelivery.net/988e3f9da4994b59915dce5d781cc6c1?&controls=true&preload=none",
@@ -3262,6 +3560,7 @@
         {
             "title": "C - Defaults",
             "tags": [],
+            "description": "Molly from C main to all default plants on site",
             "mapID": "Triad",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
             "videoURL": "https://iframe.videodelivery.net/83dfcbc9fe1d4f26b81efbbec175a306?&controls=true&preload=none",
@@ -3272,6 +3571,7 @@
         {
             "title": "from drop to a tree",
             "tags": [],
+            "description": "ÐºÐ°ÑÐ¾ÑÐµ Ñ Ð´ÑÐ¾Ð¿Ð° ÐºÐ¸Ð´Ð°ÐµÑÑ ÑÐµÐ²Ð¸Ð» Ð½Ð° Ð´ÐµÑÐµÐ²Ð¾ Ð¸ Ð²ÑÐµÑ ÑÐºÐ°Ð½Ð¸ÑÑ ÐºÑÑÑÐ¾ Ð²Ð¾Ñ",
             "mapID": "Jam",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -3283,6 +3583,7 @@
         {
             "title": "Ascent B Main Knife",
             "tags": [],
+            "description": "Good Knife for Defending on B Site",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -3294,6 +3595,7 @@
         {
             "title": "lineup molly jail",
             "tags": [],
+            "description": "save ult+molly jail",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -3305,6 +3607,7 @@
         {
             "title": "B green to site",
             "tags": [],
+            "description": "B green to site using UI as reference.",
             "mapID": "Port",
             "teamID": "Red",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -3316,6 +3619,7 @@
         {
             "title": "New Sunset lineup",
             "tags": [],
+            "description": "New sunset map cypher cage 1 way",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -3327,6 +3631,7 @@
         {
             "title": "Spycam B Site to Def Spawn.",
             "tags": [],
+            "description": "Spycam lineup that can look for people flanking/rotating.",
             "mapID": "Duality",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
             "videoURL": "https://iframe.videodelivery.net/c0ebb206dbd949b6895c505bd6948d83?&controls=true&preload=none",
@@ -3337,6 +3642,7 @@
         {
             "title": "Ascent a  main flash attacking",
             "tags": [],
+            "description": "Kayo a ascent flash blinds a main works well doesnt flash team either have fun!",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -3348,6 +3654,7 @@
         {
             "title": "Omen TP",
             "tags": [],
+            "description": "One of the best Omen tp for Icebox A-Site",
             "mapID": "Port",
             "teamID": "Blue",
             "agentID": "8e253930-4c05-31dd-1b6c-968525494517",
@@ -3359,6 +3666,7 @@
         {
             "title": "B site Net to B Main/Lobby",
             "tags": [],
+            "description": "This is a GravNet lineup that goes from B Site to B Main and even Lobby, then someone else can wall bang the other side for some early round kills",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -3370,6 +3678,7 @@
         {
             "title": "C Main dart",
             "tags": [],
+            "description": "Sova recon dart from A Tower to C Long",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -3381,6 +3690,7 @@
         {
             "title": "Kayo A safe plant",
             "tags": [],
+            "description": "Kayo A safe plant.",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -3392,6 +3702,7 @@
         {
             "title": "Kayo A link knife variation 2",
             "tags": [],
+            "description": "Kayo knife for a link 2nd variation, hard to see, and hard to break. In turn, scans more shallow.",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -3403,6 +3714,7 @@
         {
             "title": "Kayo B main to B default",
             "tags": [],
+            "description": "Kayo molly for B default spike.",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -3414,6 +3726,7 @@
         {
             "title": "A Box Molly from Main",
             "tags": [],
+            "description": "A quick and easy Molly lineup for A Box from Main.",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -3425,6 +3738,7 @@
         {
             "title": "Kayo A link knife variation 1",
             "tags": [],
+            "description": "Kayo A link knife variation 1 for sunset. Easily breakable however.",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -3436,6 +3750,7 @@
         {
             "title": "B main to B Backsite",
             "tags": [],
+            "description": "Lands everytime.",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -3447,6 +3762,7 @@
         {
             "title": "setup defense A 1",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3458,6 +3774,7 @@
         {
             "title": "setup defense B 2",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3469,6 +3786,7 @@
         {
             "title": "setup defense A 2",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3480,6 +3798,7 @@
         {
             "title": "setup defense B 1",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3491,6 +3810,7 @@
         {
             "title": "Pre-Round A Site Razorvine",
             "tags": [],
+            "description": "Pre-Round A Site Razorvine .....................................................................................................................",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3502,6 +3822,7 @@
         {
             "title": "Fade Lineup Pearl Mid",
             "tags": [],
+            "description": "Fade reveal for Pearl mid",
             "mapID": "Pitt",
             "teamID": "Blue",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -3513,6 +3834,7 @@
         {
             "title": "Killjoy Lineup Pearl Dugoutut",
             "tags": [],
+            "description": "Killjoy Flush Lineup for Dugout",
             "mapID": "Pitt",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -3524,6 +3846,7 @@
         {
             "title": "Recon | C site -> A Long",
             "tags": [],
+            "description": "Reveals A long pushers; allows your teammates to spam A long through smokes and keep holding A sewers.",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -3535,6 +3858,7 @@
         {
             "title": "Spikes on spike",
             "tags": [],
+            "description": "It works :)",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3546,6 +3870,7 @@
         {
             "title": "Mamilly",
             "tags": [],
+            "description": "a long full line up",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -3557,6 +3882,7 @@
         {
             "title": "Recon | A site -> Mid Doors",
             "tags": [],
+            "description": "Helps your teammates in C garage to clear out Mid doors. Align the right tip of the left bounce box as shown.",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -3568,6 +3894,7 @@
         {
             "title": "Recon | C site -> A site",
             "tags": [],
+            "description": "Reveals planter at default. Double bounce shock on this lineup will hit player holding A link near Green boxes.",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -3579,6 +3906,7 @@
         {
             "title": "Recon | C site -> A site entry",
             "tags": [],
+            "description": "Helps your teammates at A hold A sewers without worrying about A long pushers. No bounce on this lineup will land on A site corner ( shock).",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -3590,6 +3918,7 @@
         {
             "title": "Invisible razorvine B site",
             "tags": [],
+            "description": "Lineup for an invisible razorvine on B site",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3601,6 +3930,7 @@
         {
             "title": "post plant C box",
             "tags": [],
+            "description": "This allows the spike to be secured during the explosion.",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3612,6 +3942,7 @@
         {
             "title": "haven defense C 2",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3623,6 +3954,7 @@
         {
             "title": "post plant C for long",
             "tags": [],
+            "description": "This allows the spike to be secured during the explosion.",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3634,6 +3966,7 @@
         {
             "title": "haven defense B",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3645,6 +3978,7 @@
         {
             "title": "bind defense B 3",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3656,6 +3990,7 @@
         {
             "title": "bind defense B 2",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3667,6 +4002,7 @@
         {
             "title": "post plant B mid",
             "tags": [],
+            "description": "This allows the spike to be secured during the explosion.",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3678,6 +4014,7 @@
         {
             "title": "haven defense A 2",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3689,6 +4026,7 @@
         {
             "title": "defense A site Bind",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3700,6 +4038,7 @@
         {
             "title": "haven defense A 1",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3711,6 +4050,7 @@
         {
             "title": "bind defense B 1",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3722,6 +4062,7 @@
         {
             "title": "haven defense C 1",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3733,6 +4074,7 @@
         {
             "title": "post plant A box",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3744,6 +4086,7 @@
         {
             "title": "post plant B right",
             "tags": [],
+            "description": "This allows the spike to be secured during the explosion.",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3755,6 +4098,7 @@
         {
             "title": "B site post plant lineup",
             "tags": [],
+            "description": "a post plant nanoswarm lineup that covers the right side of the boxes in b site",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -3766,6 +4110,7 @@
         {
             "title": "Fade LineUp for B-Main",
             "tags": [],
+            "description": "Fade LineUp that reavel B-Main",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -3777,6 +4122,7 @@
         {
             "title": "Fade LineUp for A-Site",
             "tags": [],
+            "description": "Fade LineUp that reveal A-site",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -3788,6 +4134,7 @@
         {
             "title": "Fade LineUp for A-Lobby",
             "tags": [],
+            "description": "Fade LineUp that reveal A-Lobby",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -3799,6 +4146,7 @@
         {
             "title": "LineUp for A-Lobby",
             "tags": [],
+            "description": "Unbreakable LineUp for A-Lobby",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -3810,6 +4158,7 @@
         {
             "title": "LineUp Kay/0 for B-Main",
             "tags": [],
+            "description": "Unbreakable Kay/0 LineUp for B-Main",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -3821,6 +4170,7 @@
         {
             "title": "A SITE trip",
             "tags": [],
+            "description": "Begin by placing one end of your Trapwire at the poster on the wall near A . This location is strategic because it is a common area where attack",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -3832,6 +4182,7 @@
         {
             "title": "Knife A Short from A main",
             "tags": [],
+            "description": "Unbreakable Knife to A short from A main",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -3843,6 +4194,7 @@
         {
             "title": "Heaven Razorvines",
             "tags": [],
+            "description": "A Lobby to A heaven double razorvines",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3854,6 +4206,7 @@
         {
             "title": "A link Flash",
             "tags": [],
+            "description": "Doesn't effect you on the swing.",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3865,6 +4218,7 @@
         {
             "title": "B Lobby > B back site",
             "tags": [],
+            "description": "helps to counter them rotating off and peeking right side.",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3876,6 +4230,7 @@
         {
             "title": "One way CT",
             "tags": [],
+            "description": "Attack smoke at B's site covering the door that leads to CT, the lineup is made by looking at the green left edge of the poison.",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -3887,6 +4242,7 @@
         {
             "title": "Gravnet to bottom Mid",
             "tags": [],
+            "description": "Gravnet lineup from mid link to bottom mid",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -3898,6 +4254,7 @@
         {
             "title": "Easy sova lineup to stairs",
             "tags": [],
+            "description": "1 bounce 2 charges",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -3909,6 +4266,7 @@
         {
             "title": "razorvine A lobby to A rafters",
             "tags": [],
+            "description": "This lineup is great for attacking and making sure that the opponents dont sit up in haven or below.",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3920,6 +4278,7 @@
         {
             "title": "faking B",
             "tags": [],
+            "description": "Get in line with the B sign, aim at the vent thing right where the shadow is cut  off by your crosshair",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -3931,6 +4290,7 @@
         {
             "title": "Molly on [Defender Spawn / B Sit",
             "tags": [],
+            "description": "Get the guys hiding out there, or push them back.",
             "mapID": "Ascent",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
             "videoURL": "https://iframe.videodelivery.net/222ee52f4bbf43c1a3d1452cc6eb9051?&controls=true&preload=none",
@@ -3941,6 +4301,7 @@
         {
             "title": "best setup defense B Site",
             "tags": [],
+            "description": "Abyss best setup defense B Site",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -3952,6 +4313,7 @@
         {
             "title": "Bite for A site",
             "tags": [],
+            "description": "Abbys Skate Bite for A site",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -3963,6 +4325,7 @@
         {
             "title": "Attack B, bridge",
             "tags": [],
+            "description": "1 less shot to worry about",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -3974,6 +4337,7 @@
         {
             "title": "Tower - A Site bite",
             "tags": [],
+            "description": "very easy to protect the site A",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -3985,6 +4349,7 @@
         {
             "title": "[Recon] B site -> A site",
             "tags": [],
+            "description": "Recon will be good if you align yourself with line, as shown. Positioning yourself is the key. Put the left tip of left bounce box as shown.",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -3996,6 +4361,7 @@
         {
             "title": "[Recon] Def Spawn -> B Site",
             "tags": [],
+            "description": "Make sure to move crosshair a little to the left, as shown. Good for early retakes.",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4007,6 +4373,7 @@
         {
             "title": "A Main Cam",
             "tags": [],
+            "description": "Use this cam to get early info A main. Info Elbow and info in top mid.",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -4018,6 +4385,7 @@
         {
             "title": "Knife B Main from B site defence",
             "tags": [],
+            "description": "Knife from B site to B main.",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -4029,6 +4397,7 @@
         {
             "title": "C long to C site",
             "tags": [],
+            "description": "xd",
             "mapID": "Triad",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
             "videoURL": "https://iframe.videodelivery.net/3962b3ce58ca4bd3937158e19be655ef?&controls=true&preload=none",
@@ -4039,6 +4408,7 @@
         {
             "title": "Unbreakable A Lobby Kay O Knife",
             "tags": [],
+            "description": "Use this knife to get early information in A lobby",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -4050,6 +4420,7 @@
         {
             "title": "G lineup, Attack, generator",
             "tags": [],
+            "description": "No one will be staying gen",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4061,6 +4432,7 @@
         {
             "title": "Bind B site set up",
             "tags": [],
+            "description": "Full bind site set up with 2 cam spots",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
@@ -4072,6 +4444,7 @@
         {
             "title": "Full B Site ZP",
             "tags": [],
+            "description": "Stand in front of the door. Line up the middle 0 on your health to the floating pallet then fire.",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -4083,6 +4456,7 @@
         {
             "title": "Counter Wallbang B",
             "tags": [],
+            "description": "Phoenix line up to counter people who wall bang.",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "eb93336a-449b-9c1b-0a54-a891f7921d69",
@@ -4094,6 +4468,7 @@
         {
             "title": "Shockdart | A Tree -> A Orb",
             "tags": [],
+            "description": "its quick to shoot, id recommend using it to prevent pushes and deal chip damage",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4105,6 +4480,7 @@
         {
             "title": "Recon | A Window -> Mid",
             "tags": [],
+            "description": "dont put your crosshair too low or it may hit the roof and scan nothing",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4116,6 +4492,7 @@
         {
             "title": "Fake dart B lobby to A link",
             "tags": [],
+            "description": "Useless for info, fake dart.",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4127,6 +4504,7 @@
         {
             "title": "A Elbow rush with tp + Flash",
             "tags": [],
+            "description": "You can rush A Elbow like this ,But carefull some time u got blind yourself.",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -4138,6 +4516,7 @@
         {
             "title": "Lineup A Lobby to A site",
             "tags": [],
+            "description": "You can use deadlock and gekko or Omen's flash",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -4149,6 +4528,7 @@
         {
             "title": "ATK Vines A Lobby to Tower",
             "tags": [],
+            "description": "Razorvine lineup from A Lobby to stop anybody from pushing out of tower",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4160,6 +4540,7 @@
         {
             "title": "DEF x2 Vines Lamps to B Chokes",
             "tags": [],
+            "description": "For when they don't come A but you want to help on B",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4171,6 +4552,7 @@
         {
             "title": "Postplant A Cages",
             "tags": [],
+            "description": "3 cages",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -4182,6 +4564,7 @@
         {
             "title": "ATK Vines A Link to Lamps",
             "tags": [],
+            "description": "Razorvine from A Link to outside lamps to catch enemies off guard",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4193,6 +4576,7 @@
         {
             "title": "Postplant A Default",
             "tags": [],
+            "description": "Hooka",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -4204,6 +4588,7 @@
         {
             "title": "ATK Vines B Long to Elbow",
             "tags": [],
+            "description": "Razorvine lineup to slow any enemy holding from elbow",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4215,6 +4600,7 @@
         {
             "title": "Easy Icebox A Site Cam",
             "tags": [],
+            "description": "Easy Cam that can be used for defense and attack",
             "mapID": "Port",
             "agentID": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
             "videoURL": "https://iframe.videodelivery.net/afa394b5b085401d9d6ab3f17f97e258?&controls=true&preload=none",
@@ -4225,6 +4611,7 @@
         {
             "title": "ATK Vines A Lobby to Showers",
             "tags": [],
+            "description": "Start of the round lineup to help contest anybody pushing showers",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4236,6 +4623,7 @@
         {
             "title": "A lobby",
             "tags": [],
+            "description": "Razorvine lock attaque lobby A",
             "mapID": "Jam",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4247,6 +4635,7 @@
         {
             "title": "A Site -> B Default Plant",
             "tags": [],
+            "description": "Helps in giving you and your teamates time to rotate to b site. (May need communicaiton before enemies plant the spike.)",
             "mapID": "Port",
             "teamID": "Blue",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -4258,6 +4647,7 @@
         {
             "title": "One Way On A",
             "tags": [],
+            "description": "We brace ourselves against the wall and the wooden crates, aim for the lamppost, then the edge of the glass crate, and launch.",
             "mapID": "Juliett",
             "teamID": "Blue",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -4269,6 +4659,7 @@
         {
             "title": "Sunset Post Plant A",
             "tags": [],
+            "description": "With the spike planted as in the guide, you run against the gutter, aim at the corner highlighted by the ping and then aim so that the ping is between",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -4280,6 +4671,7 @@
         {
             "title": "Sunset Molly To A",
             "tags": [],
+            "description": "We wedge it against the gutter, then aim for the upper edge of the hole on the right so that the molly bounces against it.",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -4291,6 +4683,7 @@
         {
             "title": "Recon | A Site -> Mid",
             "tags": [],
+            "description": "make sure to shoot while jumping",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4302,6 +4695,7 @@
         {
             "title": "setup site A",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4313,6 +4707,7 @@
         {
             "title": "A site dice",
             "tags": [],
+            "description": "The peek deserves to be punished",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4324,6 +4719,7 @@
         {
             "title": "setup site B",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4335,6 +4731,7 @@
         {
             "title": "Setup on A",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4346,6 +4743,7 @@
         {
             "title": "post plant on the edge B",
             "tags": [],
+            "description": "This allows the spike to be secured during the explosion.",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4357,6 +4755,7 @@
         {
             "title": "B Main to B site",
             "tags": [],
+            "description": "Gekko Molly from B main to B site",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -4368,6 +4767,7 @@
         {
             "title": "Post plant a side of the boxes A",
             "tags": [],
+            "description": "This allows the spike to be secured until the explosion.",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4379,6 +4779,7 @@
         {
             "title": "A Site Rafters",
             "tags": [],
+            "description": "Just...stop them",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4390,6 +4791,7 @@
         {
             "title": "defense site B",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4401,6 +4803,7 @@
         {
             "title": "Defense of site A",
             "tags": [],
+            "description": "It allows you to delay or prevent an assault by isolating the enemies.",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4412,6 +4815,7 @@
         {
             "title": "Post plant in the middle of B\"",
             "tags": [],
+            "description": "This allows the spike to be secured during the explosion.",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4423,6 +4827,7 @@
         {
             "title": "A Rafters/Gen Razervine",
             "tags": [],
+            "description": "Use the far right thorn of the Shear ability icon to line up and throw a Razervine that will hit back gen and rafters. (could take some practice)",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4434,6 +4839,7 @@
         {
             "title": "Post plant backsite of B",
             "tags": [],
+            "description": "This allows the spike to be secured until the explosion.",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4445,6 +4851,7 @@
         {
             "title": "**Post plant on the right side B",
             "tags": [],
+            "description": "This allows the spike to be secured during the explosion.",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4456,6 +4863,7 @@
         {
             "title": "Post plant at generator A",
             "tags": [],
+            "description": "This allows the spike to be secured until the explosion.",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4467,6 +4875,7 @@
         {
             "title": "B site Market",
             "tags": [],
+            "description": "B lobby to market, stop them!",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4478,6 +4887,7 @@
         {
             "title": "Arc Rose | Abyss B Site Defence",
             "tags": [],
+            "description": "A set-up for Vyse's Arc Rose flash on Abyss, site B, in Defence",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4489,6 +4899,7 @@
         {
             "title": "B Site Hall",
             "tags": [],
+            "description": "Make people pay for holding B main from hall!",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4500,6 +4911,7 @@
         {
             "title": "A Lobby to A Bridge",
             "tags": [],
+            "description": "Easy Gecko Molly Lineup for Abyss.",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -4511,6 +4923,7 @@
         {
             "title": "A Site gen lock",
             "tags": [],
+            "description": "Lineup for Vyse on oattack to get that pesky hold behind gen",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "efba5359-4016-a1e5-7626-b1ae76895940",
@@ -4522,6 +4935,7 @@
         {
             "title": "A retake from tower",
             "tags": [],
+            "description": "place yourself on the first ping, and the make sure  your HUD is alligned with the second ping",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -4533,6 +4947,7 @@
         {
             "title": "Knife lineup > A site",
             "tags": [],
+            "description": "Knife lineup for A site Security and Backsite",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -4544,6 +4959,7 @@
         {
             "title": "A Main - A site",
             "tags": [],
+            "description": "A Main - A site",
             "mapID": "Port",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -4555,6 +4971,7 @@
         {
             "title": "Mid - Site B",
             "tags": [],
+            "description": "Mid - Site B",
             "mapID": "Port",
             "teamID": "Blue",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -4566,6 +4983,7 @@
         {
             "title": "Kitchen - Site B",
             "tags": [],
+            "description": "Kitchen - Site B",
             "mapID": "Port",
             "teamID": "Blue",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -4577,6 +4995,7 @@
         {
             "title": "to push mid",
             "tags": [],
+            "description": "to push mid",
             "mapID": "Port",
             "teamID": "Red",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -4588,6 +5007,7 @@
         {
             "title": "Recon | A Site -> B Main/Alley",
             "tags": [],
+            "description": "Recon dart which can help your teamates wallbang enemies or give info in b main and along the alley way.",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4599,6 +5019,7 @@
         {
             "title": "B Site [double shock] 1280x1024",
             "tags": [],
+            "description": "B Site [double shock] from B Main for 1280x1024 (5:4) users",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4610,6 +5031,7 @@
         {
             "title": "A DEFAULT [post plant] 1280x1024",
             "tags": [],
+            "description": "A DEFAULT [post plant] from a main for 1280x1024 (5:4) users",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4621,6 +5043,7 @@
         {
             "title": "B Danger [retake] 1280x1024",
             "tags": [],
+            "description": "B Danger [retake arrow] from CT Spawn for 1280x1024 (5:4) users",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4632,6 +5055,7 @@
         {
             "title": "B DEFAULT [post plant] 1280x1024",
             "tags": [],
+            "description": "B DEFAULT [post plant] from B Lobby for 1280x1024 (5:4) users",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4643,6 +5067,7 @@
         {
             "title": "A to B",
             "tags": [],
+            "description": "Fake reveal from A lobby to B site",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4654,6 +5079,7 @@
         {
             "title": "B to A",
             "tags": [],
+            "description": "Fake reveal from B lobby to A site",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4665,6 +5091,7 @@
         {
             "title": "Dice one way flash",
             "tags": [],
+            "description": "This flash is used for escaping or flanking and getting some free picks very good flash",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -4676,6 +5103,7 @@
         {
             "title": "Double Shock| A Heaven->Side Gen",
             "tags": [],
+            "description": "This double shock is surprisingly effective while retaking the site, but make sure to communicate with your team to help take space",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4687,6 +5115,7 @@
         {
             "title": "Recon | A Retake Dart",
             "tags": [],
+            "description": "quick, easy and reveal most of the site while retaking",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4698,6 +5127,7 @@
         {
             "title": "OneWay Smoke A Tree",
             "tags": [],
+            "description": "This is one of the best oneway smoke on ascent with omen",
             "mapID": "Ascent",
             "agentID": "8e253930-4c05-31dd-1b6c-968525494517",
             "videoURL": "https://iframe.videodelivery.net/3c9674c75a4a4332b24b2b2c6d5fe9c9?&controls=true&preload=none",
@@ -4708,6 +5138,7 @@
         {
             "title": "Recon Full cover C Site from B",
             "tags": [],
+            "description": "Fully covering Recon for C site from C link. All another position checked by entering C site",
             "mapID": "Triad",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
             "videoURL": "https://iframe.videodelivery.net/5aade77e091d48c3ac4fd2a9c3b2d778?&controls=true&preload=none",
@@ -4718,6 +5149,7 @@
         {
             "title": "Double Shock | B Site->Mid Link",
             "tags": [],
+            "description": "use after scan or with a ally holding mid cubby",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4729,6 +5161,7 @@
         {
             "title": "MOSH PIT TO A",
             "tags": [],
+            "description": "Ð grenade for protection that flies behind the boxes next to the teleporter on Ð plant",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -4740,6 +5173,7 @@
         {
             "title": "Postplant setup A Abyss",
             "tags": [],
+            "description": "Postplant setup on Abyss A",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
             "videoURL": "https://iframe.videodelivery.net/7ba424f1daae4ecaa3dd6f78326e59b1?&controls=true&preload=none",
@@ -4750,6 +5184,7 @@
         {
             "title": "Gravnet to A tower/heaven",
             "tags": [],
+            "description": "Gravnet lineup",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -4761,6 +5196,7 @@
         {
             "title": "Gravnet lineup for B tower",
             "tags": [],
+            "description": "Gravnet lineup for B tower/heaven",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -4772,6 +5208,7 @@
         {
             "title": "Gravnet to Mid Top",
             "tags": [],
+            "description": "Gravnet lineup",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -4783,6 +5220,7 @@
         {
             "title": "tp from mid to b haven",
             "tags": [],
+            "description": ":)",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -4794,6 +5232,7 @@
         {
             "title": "Tp to enemy spawn on Sunset",
             "tags": [],
+            "description": "With this tp you can go to enemy spawn",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -4805,6 +5244,7 @@
         {
             "title": "B lobby to B market molly",
             "tags": [],
+            "description": "LIneup that goes from B lobby (next to the box) to B market",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -4816,6 +5256,7 @@
         {
             "title": "Tp + Flash Tiles to Boba",
             "tags": [],
+            "description": "Can be use without the flash with enough infos but it is better to flash for better results",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -4827,6 +5268,7 @@
         {
             "title": "Sova B main close arrow",
             "tags": [],
+            "description": "Sova B main close arrow Sova B main close arrow Sova B main close arrow Sova B main close arrow Sova B main close arrow Sova B main close arrow Sova",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4838,6 +5280,7 @@
         {
             "title": "Haven A sewer slow orbs",
             "tags": [],
+            "description": "Pair these slow orbs with a Gekko molly for free kills",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -4849,6 +5292,7 @@
         {
             "title": "line up B site hot hands",
             "tags": [],
+            "description": "versus a quick entry into a B site",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "eb93336a-449b-9c1b-0a54-a891f7921d69",
@@ -4860,6 +5304,7 @@
         {
             "title": "retake A",
             "tags": [],
+            "description": "retake A",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4871,6 +5316,7 @@
         {
             "title": "Gravnet covering C back site",
             "tags": [],
+            "description": "Gravnet for backsite C",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -4882,6 +5328,7 @@
         {
             "title": "Mosh pit B site",
             "tags": [],
+            "description": "Mosh pit anti Defuse lineup for B Site",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -4893,6 +5340,7 @@
         {
             "title": "nade to A main bubble from A",
             "tags": [],
+            "description": "can stop a rush",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "f94c3b30-42be-e959-889c-5aa313dba261",
@@ -4904,6 +5352,7 @@
         {
             "title": "Mosh Pit A Site behind the Box",
             "tags": [],
+            "description": "Mosh Pit A Site behind the Box.",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -4915,6 +5364,7 @@
         {
             "title": "Gravnet to C long",
             "tags": [],
+            "description": "Gravnet for C long",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -4926,6 +5376,7 @@
         {
             "title": "lineup on a",
             "tags": [],
+            "description": "easy line up",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -4937,6 +5388,7 @@
         {
             "title": "All C Main",
             "tags": [],
+            "description": "scans all of C main",
             "mapID": "Jam",
             "teamID": "Blue",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -4948,6 +5400,7 @@
         {
             "title": "2 sage walls A defender",
             "tags": [],
+            "description": "2 simple sage walls in Abyss on A",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -4959,6 +5412,7 @@
         {
             "title": "Triple from outside shower",
             "tags": [],
+            "description": "Triple molly from outside shower, lets you avoid shower pushes and lurk back to either short or shower.",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -4970,6 +5424,7 @@
         {
             "title": "Smoke Heaven A",
             "tags": [],
+            "description": "Get blind heaven on A from bath side",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "95b78ed7-4637-86d9-7e41-71ba8c293152",
@@ -4981,6 +5436,7 @@
         {
             "title": "Viper B setup on Bind",
             "tags": [],
+            "description": "Work for both 4:3 and 16:9, add me into favourite for more",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "707eab51-4836-f488-046a-cda6bf494859",
@@ -4992,6 +5448,7 @@
         {
             "title": "Abyss A Main entry wall",
             "tags": [],
+            "description": "Please use it after smoking either the A Tower or the A Bridge if possible.",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
@@ -5003,6 +5460,7 @@
         {
             "title": "A site tp",
             "tags": [],
+            "description": "Attacker site Yoru gatecrash to tp backsite",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
@@ -5014,6 +5472,7 @@
         {
             "title": "A Box Molly from Elbow",
             "tags": [],
+            "description": "Try to plant on the left side of the box from the attacker's entry perspective as shown in the video for optimal coverage.",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
@@ -5025,6 +5484,7 @@
         {
             "title": "KAY/O knife lineup A site",
             "tags": [],
+            "description": "KAY/O knife lineup for A site from attacking side",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -5036,6 +5496,7 @@
         {
             "title": "post-plant molly KAY/O",
             "tags": [],
+            "description": "good molly for post-plant play from attacker side",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -5047,6 +5508,7 @@
         {
             "title": "post-plant B site molly",
             "tags": [],
+            "description": "KAY/O post-plant b site molly jumpthrow",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -5058,6 +5520,7 @@
         {
             "title": "Knife from Attacker Spawn",
             "tags": [],
+            "description": "Knife from Attacker Spawn to Mid Market between B Site and B Main",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -5069,6 +5532,7 @@
         {
             "title": "Sova recon bolt back site sunset",
             "tags": [],
+            "description": "Sova recon bolt back site sunset Sova recon bolt back site sunset Sova recon bolt back site sunset Sova recon bolt back site sunset Sova recon bolt",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -5080,6 +5544,7 @@
         {
             "title": "molly lineup A generator",
             "tags": [],
+            "description": "good molly for default",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -5091,6 +5556,7 @@
         {
             "title": "molly lineup behind boxes A",
             "tags": [],
+            "description": "pretty easy and useful lineup",
             "mapID": "Duality",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -5102,6 +5568,7 @@
         {
             "title": "molly lineup A behind boxes",
             "tags": [],
+            "description": "some people plant there is good to have a linup ready in ur pocket",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -5113,6 +5580,7 @@
         {
             "title": "Recon | Market â A Lobby-A Main",
             "tags": [],
+            "description": "This arrow is for when there are no enemies in B",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -5124,6 +5592,7 @@
         {
             "title": "GOD RECON LINEUP FOR LANE",
             "tags": [],
+            "description": "God dart from A site to B lane (honestly just eye ball it)",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -5135,6 +5604,7 @@
         {
             "title": "Double Shock darts A MAIN",
             "tags": [],
+            "description": "Use to get 1-2 kills on eco/pistol otherwise good for chip damage",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -5146,6 +5616,7 @@
         {
             "title": "MID GOD DART",
             "tags": [],
+            "description": "God dart for mid (lineup where the lamp is)",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -5157,6 +5628,7 @@
         {
             "title": "Op sage wall whit an one-way.",
             "tags": [],
+            "description": "This sage wall will ensure you free frags, and  maybe even make your enemys rage quit.",
             "mapID": "Port",
             "agentID": "569fdd95-4d10-43ab-ca70-79becc718b46",
             "videoURL": "https://iframe.videodelivery.net/e4059d995f324eb38e222b31006a1ebe?&controls=true&preload=none",
@@ -5167,6 +5639,7 @@
         {
             "title": "Break trap on b site",
             "tags": [],
+            "description": "Break trap cypher on b site is very easy",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -5178,6 +5651,7 @@
         {
             "title": "Recon | A Garden -> A Main",
             "tags": [],
+            "description": "useful on rotate/slow push",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -5189,6 +5663,7 @@
         {
             "title": "Recon | B Retake Dart",
             "tags": [],
+            "description": "it you shoot the recon then start run back to B, it will land just after u reach the site",
             "mapID": "Ascent",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -5200,6 +5675,7 @@
         {
             "title": "post-plant mollies for A-site",
             "tags": [],
+            "description": "Easy post-plant mollies on Ascent A-site for generator and dice",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -5211,6 +5687,7 @@
         {
             "title": "Mollies for stopping plant",
             "tags": [],
+            "description": "Molly lineup from heaven ramp to stop plant or for post-plant if you're lurking",
             "mapID": "Ascent",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
             "videoURL": "https://iframe.videodelivery.net/6b1caa05dd134325aa2159a176021e30?&controls=true&preload=none",
@@ -5221,6 +5698,7 @@
         {
             "title": "Mollies for clearing A-site",
             "tags": [],
+            "description": "Easy mollies for clearing Ascent A-site, including behind generator and dice, behind and on top of bricks",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -5232,6 +5710,7 @@
         {
             "title": "knife gen",
             "tags": [],
+            "description": "this knife hits top gen",
             "mapID": "Ascent",
             "teamID": "Red",
             "agentID": "601dbbe7-43ce-be57-2a40-4abd24953621",
@@ -5243,6 +5722,7 @@
         {
             "title": "recon C > A Garden",
             "tags": [],
+            "description": "u can use :3",
             "mapID": "Triad",
             "teamID": "Blue",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -5254,6 +5734,7 @@
         {
             "title": "Bottom Cat to Default Molly on A",
             "tags": [],
+            "description": "Molly lineup from the boxes on bottom catwalk to A site defult plant.",
             "mapID": "Ascent",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
             "videoURL": "https://iframe.videodelivery.net/04e8a1eaba364b1ab40a40aaa638d801?&controls=true&preload=none",
@@ -5264,6 +5745,7 @@
         {
             "title": "B Main to B Site",
             "tags": [],
+            "description": "Gekko Molly Lineup for Abyss Attacker, from B Main to B Site",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -5275,6 +5757,7 @@
         {
             "title": "A Main to A Site",
             "tags": [],
+            "description": "Gekko Molly Lineup for Abyss Attacker, from A Main to A Site",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "e370fa57-4757-3604-3648-499e1f642d3f",
@@ -5286,6 +5769,7 @@
         {
             "title": "Fade Lineup Abyss A-Site",
             "tags": [],
+            "description": "Haunt lineup from Abyss A-Main for A-Site",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "dade69b4-4f5a-8528-247b-219e5a1facd6",
@@ -5297,6 +5781,7 @@
         {
             "title": "A site recon in sunset",
             "tags": [],
+            "description": "To check if any enemies are holding a site",
             "mapID": "Juliett",
             "teamID": "Red",
             "agentID": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
@@ -5308,6 +5793,7 @@
         {
             "title": "Abyss A site setup",
             "tags": [],
+            "description": "Abyss A site setup to stop rushes effectively",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -5319,6 +5805,7 @@
         {
             "title": "B site setup Abyss",
             "tags": [],
+            "description": "B site setup to stop rushes (no ult)",
             "mapID": "Infinity",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -5330,6 +5817,7 @@
         {
             "title": "Haven B default plant",
             "tags": [],
+            "description": "Molly lineup on Haven B default plant",
             "mapID": "Triad",
             "teamID": "Red",
             "agentID": "1e58de9c-4950-5125-93e9-a0aee9f98746",
@@ -5341,6 +5829,7 @@
         {
             "title": "B main ult lineup",
             "tags": [],
+            "description": "Crazy ceiling ult",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -5352,6 +5841,7 @@
         {
             "title": "A default ult lineup",
             "tags": [],
+            "description": "Hits Default plant and bridge",
             "mapID": "Infinity",
             "teamID": "Red",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
@@ -5363,6 +5853,7 @@
         {
             "title": "A site to entrance to the baths",
             "tags": [],
+            "description": "This lineup has little margin for error, it is recommended to use it with one more teammate who goes ahead and gets the kill.",
             "mapID": "Duality",
             "teamID": "Blue",
             "agentID": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
